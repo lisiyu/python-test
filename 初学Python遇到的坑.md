@@ -15,3 +15,4 @@
 14、print语句默认的会在后面加上换行,加了逗号之后换行就变成了空格.多种不同类型的值之间也可以用逗号分隔. 例如print("Found " + 5)会报错.因为前一个值是字符串后一个值是整形.但是可以这样输出print("Foundr",5)或print("Found"+ str(5)).
 15、a = a + 1 缩写成 a += 1的时候请注意+和=之间没有空格
 16、字典中键为非整数时需要加引号。
+17、安装第三方模块.到安装目录 C:\Users\ChalLee\AppData\Local\Programs\Python\Python35\Scripts 打开命令窗口输入 : pip install +模块名.例如:pip install beautifulsoup4 如果安装遇到报网络超时的错误请打开全局VPN翻墙. FUCK GFW
